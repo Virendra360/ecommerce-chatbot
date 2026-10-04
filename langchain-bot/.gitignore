@@ -1,0 +1,27 @@
+# Database
+ecommerce.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# Secrets
+credentials.json
+token.pickle
+
+# Local application data
+*.sqlite
+*.sqlite3
+checkpoints.sqlite
+chat_threads.json
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
